@@ -1,1 +1,1 @@
-# .github
+# GDG Algiers contributing guidelines
