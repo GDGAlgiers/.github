@@ -21,7 +21,7 @@ Explain what make you think this enhancement is needed. Make sure to link any ex
 Describe clearly the solution you'd like to have, and any other possible alternative. 
 
 ## Outcome
-Describe briefly what the end results will be, once this issue is solved. 
+Describe briefly what the end result will be, once this issue is solved. 
 
 # Tests Plan
 Explain the tests that should be added/edited to make sure this improvement works, and doesn't affect other parts of the project. 

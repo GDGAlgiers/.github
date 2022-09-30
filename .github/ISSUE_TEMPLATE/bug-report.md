@@ -34,9 +34,8 @@ Add anything that can help better understand what's happening. For example: Scre
 <!--screeshots here-->
 
 ### Logs
-<!--logs here-->
 ```
-Past logs here between the quotes
+Past logs here
 ```
 
 # Additional Details

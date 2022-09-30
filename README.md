@@ -1,1 +1,1 @@
-# GDG Algiers contributing guidelines
+# GDG Algiers Default Community Health Files

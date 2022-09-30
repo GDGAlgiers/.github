@@ -22,11 +22,11 @@ Explain what makes you think this new feature is needed. Make sure to link any e
 Describe in details how you think the feature should be implemented.
 
 ## Outcome 
-Describe briefly what the end results will be, once this issue is solved. 
+Describe briefly what the end result will be, once this issue is solved. 
 
 # Tests
 ## Affected features
-State the different existing features that will be broken/affected by this new feature.
+State the different existing features that will be broken/affected (if any) by this new feature.
 
 ## Tests plan
 Explain the tests that should be added/edited to make sure this feature works correctly, and doesn't affect other parts of the project. 
