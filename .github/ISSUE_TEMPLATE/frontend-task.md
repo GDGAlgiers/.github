@@ -15,6 +15,9 @@ assignees: ''
 - [ ] Compress images of big size, if any, and convert them to **webp** extension.
 - [ ] Ensure that the naming of constants, variables, components and files follow the convention guidelines.
 - [ ] Verify the implemented page's text content for typos.
+- [ ] Ensure that the code is formatted.
+- [ ] If a linter is used, make sure your code passes the linter errors.
+- [ ] If the used technology has a build step, ensure that your code passes the build command.
 
 # Estimated Deadline
 
