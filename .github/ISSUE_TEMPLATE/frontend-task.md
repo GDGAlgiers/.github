@@ -6,7 +6,7 @@ labels: ''
 assignees: ''
 ---
 
-# Task DetailsL
+# Task Details
 - [ ] Task detail 1
 - [ ] Task detail 2
 
